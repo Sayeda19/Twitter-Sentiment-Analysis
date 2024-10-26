@@ -25,7 +25,7 @@ In this project, I analyzed Twitter data to understand public sentiment surround
 
 ### 5. Model Evaluation
 - **Best-Performing Model**: Support Vector Machine (SVM)
-- **Accuracy Achieved**: 85.2%
+- **Accuracy Achieved**: 86.5%
 - **Action**: Selected SVM as the final model based on its high accuracy in sentiment classification.
 
 ### 6. Temporal Sentiment Analysis
